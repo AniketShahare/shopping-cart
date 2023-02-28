@@ -1,3 +1,8 @@
+## Shopping Cart (ReactJS) 
+[Live Link](https://shopping-cart-reactjs01.vercel.app/)
+
+**Name:** Aniket Shahare
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
