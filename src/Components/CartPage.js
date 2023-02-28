@@ -6,7 +6,7 @@ import {
 } from "../features/cartSlice"
 
 
-const cartPage = () => {
+const CartPage = () => {
   const {cart, totalQuantity, totalPrice} = useSelector(
     (state) => state.allCart
     );
@@ -148,4 +148,4 @@ const cartPage = () => {
   )
 }
 
-export default cartPage;
+export default CartPage;
